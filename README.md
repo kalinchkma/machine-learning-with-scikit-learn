@@ -1,1 +1,1 @@
-# mlnutshell
+# Machine Learning with `scikit-learn`
